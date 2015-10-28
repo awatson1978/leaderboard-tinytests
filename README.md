@@ -18,7 +18,7 @@ git clone http://github.com/awatson1978/leaderboard-tinytests.git
 
 // make sure the tiny test package is installed
 cd ..
-meteor add tinytests
+meteor add tinytest
 
 // and run them
 meteor test-packages leaderboard-tinytests
